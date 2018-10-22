@@ -3,18 +3,14 @@
 
 ## Review
 
-Luigi's Mansion is an action adventure game with Metroidvania type exploration. It was directed by Hideki Konno of Nintendo.
+Luigi's Mansion is an action adventure game that encourages the player to explore the mansion in order to progress. It was directed by Hideki Konno of Nintendo. The Player takes control of Luigi as he explores a haunted mansion in search of his missing brother, Mario. The Player is given a flashlight, a vacuum cleaner, and a Game Boy Horror to progress through the game. The flashlight can be used to stun ghosts, which are the game's enemies. The player can then suck up the stunned ghost with the vacuum cleaner which is called The Poltergust 3000. The Game Boy Horror shows the Player how much treasure they have collected, a map of the mansion, and information on captured ghosts. It also has a radar function to help the Player find Boos, which are type of ghost the player must capture in order to beat the game.
 
 ## What Needs Testing
 
-Play the game and reviewing it from a tester’s perspective. You will write a short review and give a 3-5 minute review on this game.
+Give a 3-5 minute review on this game.
 
-Review
-
-Type 1-2 paragraphs reviewing selected game. Your audience is the class, keep your review simple and understandable to a novice tester. Your task is to advise your classmates about the game and aspects that should be tested. Submit assignment via a link to a github markdown file hosted in your personal site. 
-
-Give title of game, type of game and game designer/maker 
 Name 3-5 aspects of the game you think should be tested and why?
+
 Example: 
 
 The tennis game on Wii Sports is a very fun and easy game to play. The maker of Wii sports is Nintendo and there are several other sports that can be played on the Wii Sports game disc. After playing the tennis game on Wii Sports, there are several functions I think a tester would look at.

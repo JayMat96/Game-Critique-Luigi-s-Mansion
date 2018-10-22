@@ -1,6 +1,6 @@
 # Game-Critique-Luigis-Mansion
 
-Pick a video game you either already know well, or are willing to spend some time with. No restrictions on genre or platform.  Spend at least 1 hour playing the game and reviewing it from a tester’s perspective. You will write a short review and give a 3-5 minute review on this game.
+Play the game and reviewing it from a tester’s perspective. You will write a short review and give a 3-5 minute review on this game.
 
 Review
 

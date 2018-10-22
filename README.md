@@ -3,6 +3,8 @@
 
 ## Review
 
+Luigi's Mansion is an action adventure game with Metroidvania type exploration. It was directed by Hideki Konno of Nintendo.
+
 ## What Needs Testing
 
 Play the game and reviewing it from a tester’s perspective. You will write a short review and give a 3-5 minute review on this game.

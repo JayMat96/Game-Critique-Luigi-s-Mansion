@@ -1,5 +1,9 @@
 # Game-Critique-Luigis-Mansion
 
+## Review
+
+## What Needs Testing
+
 Play the game and reviewing it from a tester’s perspective. You will write a short review and give a 3-5 minute review on this game.
 
 Review

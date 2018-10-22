@@ -7,12 +7,10 @@ Luigi's Mansion is an action adventure game that encourages the player to explor
 
 ## What Needs Testing
 
+While I did not find very many problems with the game, there are a few things that I believe should be tested to ensure quality. They are the range of the flashlight, the radar, and the mirrors in the game.
+
+
+
+In the game, you can enter first person mode with the Game Boy Horror by pressing the "X" button. While in this mode, you can get information on surrounding items and some of the stronger ghost by pressing the "A" button while looking at the object you want information on. However, if you look at a mirror and try to get information on it, you are teleported back to the enterance of the mansion. I tried this with ever mirror I encountered, and it worked on all but one mirror. I'm not sure if this was an error or if there is something special about that one particular mirror. If not, then further testing should be done in order to keep that function in all mirrors, making it a more uniformed function while also making all mirrors equal. 
+
 Name 3-5 aspects of the game you think should be tested and why?
-
-Example: 
-
-The tennis game on Wii Sports is a very fun and easy game to play. The maker of Wii sports is Nintendo and there are several other sports that can be played on the Wii Sports game disc. After playing the tennis game on Wii Sports, there are several functions I think a tester would look at.
-
-One function that would be looked at immediately is the player mode/selection. A total of four players can play a tennis match; this can be done with 1 Wii remote or multiple Wii remotes. Another important function that might be tested is the player movement, making sure the direction you are moving is in line with the game.  Scoring would be another major function that should be tested, if a player hits the ball out of bound or hits the net, making sure a proper out occurs and the scoring is incremented correctly.
-
-These are just a few of the initial functions that would a tester would need to look at when evaluating the Wii Sports tennis game. 

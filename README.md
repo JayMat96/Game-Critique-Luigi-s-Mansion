@@ -7,8 +7,6 @@ Luigi's Mansion is an action adventure game that encourages the player to explor
 
 ## What Needs Testing
 
-Give a 3-5 minute review on this game.
-
 Name 3-5 aspects of the game you think should be tested and why?
 
 Example: 
